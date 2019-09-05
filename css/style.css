@@ -579,7 +579,7 @@ p {
 .display_six {
   width: 100vw;
   height: 520px;
-  background: url(../img/map.webp) center center no-repeat;
+  background: url(../img/map.png) center center no-repeat;
 }
 .display_six-contacts {
   width: 380px;
