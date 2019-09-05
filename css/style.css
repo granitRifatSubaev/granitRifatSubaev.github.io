@@ -111,7 +111,7 @@ p {
   position: absolute;
   width: 100vw;
   height: 550px;
-  background: url(../img/display_oneBG.webp) center center no-repeat;
+  background: url(../img/display_oneBG.png) center center no-repeat;
   top: 116px;
   z-index: -1;
 }
